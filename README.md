@@ -1,4 +1,4 @@
-# Ejercicio práctico de asimilación de git
+# Ejercicio práctico de asimilación de git - Version 1.0.0
 ## Mis datos personales
 
 * Nombre y apellido: German Perez
