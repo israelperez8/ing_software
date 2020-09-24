@@ -1,3 +1,3 @@
 # ing_software
-https://es.wikipedia.org/wiki/Markdown
-https://markdown.es/sintaxis-markdown/
+[link 1](https://es.wikipedia.org/wiki/Markdown)
+[link 2](https://markdown.es/sintaxis-markdown/)
